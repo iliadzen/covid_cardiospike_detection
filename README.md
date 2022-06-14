@@ -1,5 +1,3 @@
-# covid_cardiospike_detection
-
 ## Description
 Solution from Leaders of Digital 2021 hackathon.  
 Track - Healthcare, EPAM task.
